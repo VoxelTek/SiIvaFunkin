@@ -2,6 +2,9 @@
 
 This is the repo for the Friday Night Funkin mod that alters some of the beatmaps, songs, and other assets to be those of SiIvaGunner joke rips.
 
+You can find an online build of the game here:
+http://net.voxeltech.net/siiva/
+
 ## Build instructions
 
 THESE INSTRUCTIONS ARE FOR COMPILING THE GAME'S SOURCE CODE!!!
